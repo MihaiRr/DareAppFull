@@ -5,7 +5,8 @@ Lista membrilor si rolurile lor:
 
 •	Varvari Dennis - Project Lead and Full Stack Developer
 <br>
-•	Rusu Mihai - Software Architect and QA 
+
+•	Mihai Retegan - Full Stack Developer Lead and ML Engineering Lead 
 <br>
 •	Cristian Suciu - Back-end Developer and QA 
 <br>
@@ -21,7 +22,7 @@ Lista membrilor si rolurile lor:
 <br>
 •	Viorel Marian Mardar - Back-end Developer and QA Lead 
 <br>
-•	Mihai Retegan - Full Stack Developer Lead and ML Engineering Lead 
+•	Rusu Mihai - Software Architect and QA 
 <br>
 •	Robert Oanta - Back-end Developer and DevOps Lead 
 <br>
